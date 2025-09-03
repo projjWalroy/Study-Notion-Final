@@ -162,14 +162,9 @@ Contributions are welcome!
 
 Please follow existing code style and include appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, contact:
 
 * GitHub: [@projjWalroy](https://github.com/projjWalroy)
-* Email: [projjwal.roy1@gmail.com](mailto:projjwal.roy1@gmail.com)
 
